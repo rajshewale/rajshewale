@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajshewale
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Btech in computer scince
+- 🌱 I’m currently learning Btech in computer science
 - 💞️ I’m looking to collaborate on big companies
 - 📫 How to reach me shewaleraj143@gmail.com
 
